@@ -40,15 +40,13 @@ Note: You can also open this project folder inside IntelliJ IDEA or Eclipse and 
 
 View the application:
 Open your preferred web browser and go to:
-
-Plaintext
 http://localhost:8080
-📂 Project Structure
-Plaintext
+
 src/
 ├── main/
 │   ├── java/com/example/todo/       # Java classes (Controllers, Models, Services)
 │   └── resources/
 │       ├── templates/               # Thymeleaf HTML files for the UI
-│       ├── static/                  # CSS styles  
+│       ├── static/                  # CSS styles and JavaScript files
 │       └── application.properties   # App configuration settings
+
